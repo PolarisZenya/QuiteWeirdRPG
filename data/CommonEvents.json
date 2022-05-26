@@ -1,0 +1,7 @@
+[
+null,
+{"id":1,"list":[{"code":111,"indent":0,"parameters":[0,42,0]},{"code":101,"indent":1,"parameters":["",0,1,2,""]},{"code":401,"indent":1,"parameters":["你向空中擲石"]},{"code":101,"indent":1,"parameters":["",0,1,2,""]},{"code":401,"indent":1,"parameters":["石子意外的飛得特別高"]},{"code":101,"indent":1,"parameters":["",0,1,2,""]},{"code":401,"indent":1,"parameters":["\\..\\..\\.."]},{"code":101,"indent":1,"parameters":["",0,1,2,""]},{"code":401,"indent":1,"parameters":["化成一顆流星劃向彼方的天際線"]},{"code":115,"indent":1,"parameters":[]},{"code":0,"indent":1,"parameters":[]},{"code":412,"indent":0,"parameters":[]},{"code":101,"indent":0,"parameters":["",0,1,2,""]},{"code":401,"indent":0,"parameters":["你向空中擲石"]},{"code":101,"indent":0,"parameters":["",0,1,2,""]},{"code":401,"indent":0,"parameters":["石子意外的飛得特別高"]},{"code":101,"indent":0,"parameters":["",0,1,2,""]},{"code":401,"indent":0,"parameters":["\\..\\..\\.."]},{"code":212,"indent":0,"parameters":[-1,2,false]},{"code":101,"indent":0,"parameters":["Actor1",0,0,2,"主角"]},{"code":401,"indent":0,"parameters":["啊"]},{"code":101,"indent":0,"parameters":["",0,1,2,""]},{"code":401,"indent":0,"parameters":["你被紙糊的天空砸死了"]},{"code":353,"indent":0,"parameters":[]},{"code":0,"indent":0,"parameters":[]}],"name":"擲石","switchId":1,"trigger":0},
+{"id":2,"list":[{"code":0,"indent":0,"parameters":[]}],"name":"","switchId":1,"trigger":0},
+{"id":3,"list":[{"code":0,"indent":0,"parameters":[]}],"name":"","switchId":1,"trigger":0},
+{"id":4,"list":[{"code":0,"indent":0,"parameters":[]}],"name":"","switchId":1,"trigger":0}
+]
